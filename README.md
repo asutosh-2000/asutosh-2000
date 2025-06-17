@@ -1,3 +1,4 @@
+![Uploading github-banner.png…]()
 <h1 align="center">Hi 👋, I'm Asutosh Mohanty</h1>
 <h3 align="center">Cloud Database Engineer | Cloud-Native Architect | AWS | Azure | GCP</h3>
 
