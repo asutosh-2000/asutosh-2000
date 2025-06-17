@@ -1,5 +1,4 @@
-
-![github-banner](https://github.com/user-attachments/assets/4c9b47e5-a651-4982-bbea-542ff3bfb723)
+![github-banner](https://github.com/user-attachments/assets/a0931c94-1ec5-4a66-8472-fc404bb11663)
 
 <h1 align="center">Hi 👋, I'm Asutosh Mohanty</h1>
 <h3 align="center">Cloud Database Engineer | Cloud-Native Architect | AWS | Azure | GCP</h3>
