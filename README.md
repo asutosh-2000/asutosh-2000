@@ -1,6 +1,6 @@
 ![BANNER-01](https://github.com/user-attachments/assets/e947b7e9-1354-434d-92ea-45ed0dae72d4)
   
-<h1 align="center">Hi 👋, I'm Asutosh Mohanty</h1>
+<h1 align="center">Asutosh Mohanty</h1>
 <h3 align="center">Cloud Database Engineer | Cloud-Native Architect | AWS | Azure | GCP</h3>
 
 ---
