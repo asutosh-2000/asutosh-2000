@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Asutosh 👋
 
-<!--
-**asutosh-2000/asutosh-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud Database Engineer | DevOps & DataOps | AWS | GCP | Azure  
+💾 PostgreSQL, MySQL, MongoDB, SQL Server  
+🔧 Terraform | CI/CD | Infrastructure as Code  
+🛠️ Automating, Optimizing, and Scaling Data Systems
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack
+
+- **Languages**: Python, SQL, Bash
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQL Server
+- **Cloud Platforms**: AWS, Azure, GCP
+- **Tools**: Terraform, GitHub Actions, Docker
+- **Focus Areas**: DataOps | DB Migration | HA Architecture | Query Optimization
+
+---
+
+### 📫 Connect with Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/asutosh2000)
+- 📧 Email: asutosh.m.2000@gmail.com
