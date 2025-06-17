@@ -1,4 +1,6 @@
-![bba612c7-c47a-44bf-912d-0f320f6d1ff6](https://github.com/user-attachments/assets/8190d12f-4cdb-4530-8837-c5f8a8c21a5e)
+
+![bba612c7-c47a-44bf-912d-0f320f6d1ff6](https://github.com/user-attachments/assets/796aeeef-c54d-4a51-9551-fadc1b295734)
+
 
 <h3 align="center">Cloud Database Engineer | Cloud-Native Architect | AWS | Azure | GCP</h3>
 
