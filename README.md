@@ -1,4 +1,4 @@
-![BANNER-01](https://github.com/user-attachments/assets/e947b7e9-1354-434d-92ea-45ed0dae72d4)
+![bba612c7-c47a-44bf-912d-0f320f6d1ff6](https://github.com/user-attachments/assets/8190d12f-4cdb-4530-8837-c5f8a8c21a5e)
 
 <h3 align="center">Cloud Database Engineer | Cloud-Native Architect | AWS | Azure | GCP</h3>
 
