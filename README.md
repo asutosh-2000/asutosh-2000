@@ -1,4 +1,6 @@
-![Uploading github-banner.png…]()
+
+![github-banner](https://github.com/user-attachments/assets/4c9b47e5-a651-4982-bbea-542ff3bfb723)
+
 <h1 align="center">Hi 👋, I'm Asutosh Mohanty</h1>
 <h3 align="center">Cloud Database Engineer | Cloud-Native Architect | AWS | Azure | GCP</h3>
 
