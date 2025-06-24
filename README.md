@@ -41,8 +41,8 @@
 | 📂 **Project**                    | 📝 **Description**                                                                 |
 | --------------------------------- | ---------------------------------------------------------------------------------- |
 | 🛍️ **Big‑Mart Sales Prediction** | ML model to forecast sales based on historical store, product, and seasonal data   |
-| ⚙️ **Terraform Infra Setup**      | Automates multi‑cloud DB deployments & VPC networking with Terraform               |
-| 📊 **Query Performance Toolkit**  | Scripts & dashboards to analyze and optimize SQL performance across multiple RDBMS |
+| ⚙️ **PII Protection System**      | Developed a OCR system that detects and encrypts PII using AES-256 encryption. .  |
+| 📊 **Scalable Static Website Deployment**  | Deployed a secure using AWS service and GitOps practices with GitHub Actions |
 
 > ✨ *More projects coming soon!*
 
