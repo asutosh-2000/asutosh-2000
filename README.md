@@ -52,7 +52,7 @@
 
 [![Email](https://img.shields.io/badge/Email-asutosh.m.2000@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:asutosh.m.2000@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Asutosh%20Mohanty-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/asutosh2000/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Asutosh-Mohanty-orange?style=for-the-badge&logo=web)](https://asutosh-mohanty.vercel.app/)
+[![🌐 Portfolio](https://img.shields.io/badge/Portfolio-asutosh--mohanty.vercel.app-orange?style=for-the-badge&logo=vercel)](https://asutosh-mohanty.vercel.app/)
 
 ---
 
